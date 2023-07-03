@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Foursnail
 - 👀 I’m interested in Game Developement
-- 🌱 I’m currently learning HaxeFlixel
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate
 - 📫 Reach me at @Foursnail https://twitter.com/FourSnail
 
